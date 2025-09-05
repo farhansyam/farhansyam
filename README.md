@@ -4,13 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhansyam&label=Profile%20views&color=0e75b6&style=flat" alt="farhansyam" /> </p>
 
 - 🌱 I’m currently Mastering **Laravel & Flutter**
-
-- 👨‍💻 All of my projects are available at [farhansyam.github.io](farhansyam.github.io)
-
-- 💬 Ask me about **Laravel**
-
 - 📫 How to reach me **farhansyamsuddin3@gmail.com**
-
 - 📄 Know about my experiences [farhansyam.github.io](farhansyam.github.io)
 - Progress Buil [lezitech.id](lezitech.id)
 
