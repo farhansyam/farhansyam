@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Farhan Syamsudin</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farhansyam&label=Profile%20views&color=0e75b6&style=flat" alt="farhansyam" />
+  <img src="https://komarev.com/ghpvc/?username=farhansyam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -10,21 +10,21 @@
 ### 🚀 About Me
 - 🌱 Currently mastering **Laravel & Flutter**  
 - 📫 Reach me at **farhansyamsuddin3@gmail.com**  
-- 📄 Check my portfolio: [farhansyam.github.io](https://farhansyam.github.io)  
-- 🔨 Building: [lezitech.id](https://lezitech.id)  
+- 📄 Learn more about my experiences: [farhansyam.github.io](https://farhansyam.github.io)  
+- 🔨 Building progress with: [lezitech.id](https://lezitech.id)  
 
 ---
 
-### 🤝 Connect with Me
+### 🌐 Connect with Me
 <p align="left">
   <a href="https://dev.to/farhansyam" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages and Tools
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a>
@@ -47,7 +47,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhansyam&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
 
