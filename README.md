@@ -11,21 +11,17 @@
 - 🌱 Learning **Laravel & Flutter**  
 - 📫 Contact: **farhansyamsuddin3@gmail.com**  
 - 📄 Portfolio: [farhansyam.github.io](https://farhansyam.github.io)  
-- 🔨 Projects: [lezitech.id](https://lezitech.id)  
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://static.cdnlogo.com/logos/l/56/laravel-wordmark.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://static.cdnlogo.com/logos/l/56/laravel-wordmark.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://s.w.org/about/images/logos/wordpress-logo-notext.svg" alt="WordPress" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40"/>
 </p>
 
 ---
@@ -41,5 +37,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhansyam&layout=compact" alt="Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=farhansyam&show_icons=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhansyam" alt="GitHub Streak"/>
 </p>
