@@ -1,4 +1,4 @@
-# 🐱 Gochi Dev
+# 😶‍🌫️ Gochi Dev
 
 **`Digital Craftsman (Developer/Problem Solver)`**
 
