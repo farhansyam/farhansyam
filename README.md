@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Learning **Laravel & Flutter**  
+- 🌱 Focusing **Laravel & Golang**  
 - 📫 Contact: **farhansyamsuddin3@gmail.com**  
 - 📄 Portfolio: [farhansyam.github.io](https://farhansyam.github.io)  
 
@@ -17,10 +17,8 @@
 ### 🛠️ Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/>
   <img src="https://static.cdnlogo.com/logos/l/56/laravel-wordmark.svg" alt="Laravel" width="40" height="40"/>
-
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40"/>
 </p>
 
